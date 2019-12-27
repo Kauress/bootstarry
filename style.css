@@ -63,6 +63,10 @@ color: #ffff4d;
 #more:hover{
   color:#FFFFFF;
 }
+
+/*section pics*/
+.section-pic{
+}
 @keyframes fadeIn {
   from { opacity: 0; }
 }
