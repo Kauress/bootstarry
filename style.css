@@ -214,3 +214,15 @@ ul{
      display:block;
      object-fit: cover;
  }
+
+/* footer */
+ footer{
+   background-color:#1d3787;
+   color: #FFFFFF;
+ }
+ .external_links{
+   color:#1d3787;
+ }
+ #footer-span{
+   color:#ffff4d;
+ }
